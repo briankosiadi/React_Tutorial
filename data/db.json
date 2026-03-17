@@ -29,6 +29,30 @@
       "title": "dfsfds",
       "body": "asdffasfd",
       "author": "yoshi"
+    },
+    {
+      "id": "91f5",
+      "title": "asd",
+      "body": "asdfadsf",
+      "author": "yoshi"
+    },
+    {
+      "id": "bb8c",
+      "title": "ghfh",
+      "body": "wrtwrt",
+      "author": "yoshi"
+    },
+    {
+      "id": "7c0d",
+      "title": "hello ninjas again",
+      "body": "test",
+      "author": "mario"
+    },
+    {
+      "id": "043b",
+      "title": "test 2",
+      "body": "test 2",
+      "author": "mario"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
